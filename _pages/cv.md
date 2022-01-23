@@ -11,49 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, Liberty University, 2021
+* M.S. in Computer Science, Old Dominion University, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* The MITRE Corporation (June 2017 - Present)
+  * Software Development Intern (May 2020 - Present)
+    * Created a digital engineering interface that facilitates requirements creation
+    * Used Django to create a database to capture complex relationships between entities
+  * Software Development Intern (Dec 2019 - Jan 2020)
+    * Created an EMM app for an Android device that managed per-app permission blocks
+    * Used Firbase Cloud Messaging to systematically send messages to the Android app
+  * Software Development Intern (May - August 2019)
+    * Created a static site to display the results of test scenarios to benefit project developers
+    * Improved the CI environment by implementing more verbose verification of scenario results
+  * Software Development Intern (June - Sept 2017)
+    * Let the cost analysis research of implementing a cloud computing system
+    * Contributed to the written deliverables of the task; work presented to a GS15 sponsor
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Web Development
+  * HTMl, JS, PHP
+* C++, Python, Django
+* Git version control
+* GitLab CI/CD
+* Database Systems
+  * SQL and PostgreSQL

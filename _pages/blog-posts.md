@@ -13,5 +13,5 @@ redirect_from:
 
 # [2021-11-18: Emily Escamilla (Computer Science PhD Student)](https://ws-dl.blogspot.com/2021/11/2021-11-xx-emily-escamilla-computer.html)
 
-* [2021-10-21: 9/11 through the eyes of the Internet Archive](https://ws-dl.blogspot.com/2021/10/2021-10-21-911-through-eyes-of-internet.html)
+# [2021-10-21: 9/11 through the eyes of the Internet Archive](https://ws-dl.blogspot.com/2021/10/2021-10-21-911-through-eyes-of-internet.html)
 

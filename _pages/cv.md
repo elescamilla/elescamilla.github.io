@@ -12,7 +12,10 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Science, Liberty University, 2021
-* M.S. in Computer Science, Old Dominion University, 2024 (expected)
+
+Publications to Date
+======
+_In Submission:_ E. Escamilla, M. Klein, V. Steeves, M.C. Weigle, and M.L. Nelson, Source Code in Scholarly Content: One in Five Articles References GitHub, In Proceedings of the 13th ACM Web Science Conference, Barcelona, Spain, June 2022. 
 
 Work experience
 ======

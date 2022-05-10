@@ -20,3 +20,8 @@ I am currently working as a Graduate Research Assistant (GRA) on the CoSAI (Coll
 <a href="https://ws-dl.blogspot.com/" target="_blank" class="btn btn--mcw"><i class="fab fa-blogger" style="color: {{ page.blogger-color }}"></i><span> WS-DL Blog</span></a>
 <a href="https://github.com/oduwsdl" target="_blank" class="btn btn--mcw"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i><span> WS-DL GitHub</span></a>
 {: style="text-align: center;"}
+
+<h2>Recent Blog Posts</h2>
+<a href="https://ws-dl.blogspot.com/2022/03/2022-03-30-github-is-not-archive-github.html">2022-03-30: GitHub is not an archive - GitHub Pages</a>
+<a href="https://ws-dl.blogspot.com/2022/02/2021-02-23-one-in-five-articles.html">2021-02-23: One in Five arXiv Articles Reference GitHub</a>
+<a href="https://ws-dl.blogspot.com/2021/11/2021-11-xx-emily-escamilla-computer.html">2021-11-18: Emily Escamilla (Computer Science PhD Student)</a>

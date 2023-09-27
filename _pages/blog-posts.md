@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+## [2023-08-31: The End of a Chapter](https://ws-dl.blogspot.com/2023/08/2023-08-31-end-of-chapter.html)
+
+## [2023-05-24: IIPC Web Archiving Conference (WAC) Trip Report](https://ws-dl.blogspot.com/2023/05/iipc-wac-2023.html)
+
 ## [2022-10-11: Theory and Practice of Digital Libraries (TPDL) 2022 Trip Report](https://ws-dl.blogspot.com/2022/10/2022-10-11-tpdl2022-trip-report.html)
 
 ## [2022-07-25: ACM/IEEE Joint Conference on Digital Libraries (JCDL) 2022 Trip Report](https://ws-dl.blogspot.com/2022/07/2022-07-25-jcdl2022-trip-report.html)

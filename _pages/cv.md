@@ -14,6 +14,7 @@ Education
 M.S. in Computer Science, Old Dominion University, August 2023
 * Thesis: *Assessing the Prevalence and Archival Rate of URIs to Git Hosting Platforms in Scholarly Platforms*
 * Research Group: Web Science and Digital Libraries (WS-DL)
+
 B.S. in Computer Science, Liberty University, May 2021
 * Cognates: Web and Mobile Development, Software Engineering
 * Cumulative GPA: 4.00

@@ -1,7 +1,7 @@
 ---
 title: "It's Not Just GitHub: Identifying Data and Software Sources Included in Publications"
 collection: publications
-permalink: /publication/its-not-just-github
+permalink: /publication/2023-07-26-its-not-just-github
 excerpt: ''
 date: 2023-07-26
 url-slug: its-not-just-github

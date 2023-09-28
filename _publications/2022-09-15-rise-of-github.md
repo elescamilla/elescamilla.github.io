@@ -1,7 +1,7 @@
 ---
 title: "The Rise of GitHub in Scholarly Publications"
 collection: publications
-permalink: /publication/rise-of-github
+permalink: /publication/2023-07-26-rise-of-github
 excerpt: ''
 date: 2022-09-15
 url-slug: rise-of-github

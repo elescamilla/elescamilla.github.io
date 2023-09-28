@@ -6,7 +6,7 @@ excerpt: ''
 date: 2023-07-26
 url-slug: its-not-just-github
 venue: 'Theory and Practice of Digital Libraries'
-paperurl: 'http://elescamilla.github.io/files/TDPL-its-not-just-github.pdf'
+paperurl: '' # 'http://elescamilla.github.io/files/TDPL-its-not-just-github.pdf'
 citation: 'Escamilla, E., Salsabil, L., Klein, M., Wu, J., Weigle, M.C., Nelson, M.L. (2023). It’s Not Just GitHub: Identifying Data and Software Sources Included in Publications. In: <i>Linking Theory and Practice of Digital Libraries</i>. TPDL 2023. Lecture Notes in Computer Science, vol 14241. Springer, Cham. <a href="https://doi.org/10.1007/978-3-031-43849-3_17">https://doi.org/10.1007/978-3-031-43849-3_17</a>'
 ---
 

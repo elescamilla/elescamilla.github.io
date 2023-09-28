@@ -1,11 +1,11 @@
 ---
 title: "The Rise of GitHub in Scholarly Publications"
 collection: publications
-permalink: /publication/2022-09-15-rise-of-github
+permalink: /publication/rise-of-github
 excerpt: ''
 date: 2022-09-15
 url-slug: rise-of-github
-venue: 'Theory and Practice of Digital Libraries'
+venue: 'Theory and Practice of Digital Libraries 2022'
 paperurl: 'http://elescamilla.github.io/files/TPDL-rise-of-github.pdf'
 citation: 'Escamilla, E., Klein, M., Cooper, T., Rampin, V., Weigle, M.C., Nelson, M.L. (2022). The Rise of GitHub in Scholarly Publications. In: <i>Linking Theory and Practice of Digital Libraries</i>. TPDL 2022. Lecture Notes in Computer Science, vol 13541. Springer, Cham.<a href="https://doi.org/10.1007/978-3-031-16802-4_15">https://doi.org/10.1007/978-3-031-16802-4_15</a>'
 ---

@@ -22,7 +22,7 @@ B.S. in Computer Science, Liberty University, May 2021
 
 Work experience
 ======
-* Old Dominion University Research Foundation (August 2021 - August 2023)
+* Old Dominion University Research Foundation (August 2021 - September 2023)
   * Graduate Research Assistant
     * Collaborative Software Archiving for Institutions (CoSAI) Project funded by Alfred P. Sloan Foundation 
     * Analyzed the use and archival of URLs to Git Hosting Platforms (GHPs) in scholarly publications 
@@ -52,7 +52,7 @@ Skills
   * HTMl, JS, CSS, PHP
   * Bootstrap
   * Django
-* C++, Python, Java
+* Python, C++, Java
 * Git version control
 * GitLab CI/CD
 * Database Systems

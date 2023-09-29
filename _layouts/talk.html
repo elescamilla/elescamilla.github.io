@@ -42,6 +42,9 @@ layout: default
 
       <section class="page__content" itemprop="text">
         {{ content }}
+        {% if page.slides_iframe %}
+          <iframe src="{{ page.slides_iframe }}/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+        {% endif %}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
 
